@@ -102,6 +102,3 @@ Se desejar experimentar outros descritores, edite a função `extract_hu_moments
 Um vídeo de apresentação do projeto, explicando o desenvolvimento, os resultados e a execução, está disponível [aqui](link-do-video).
 
 ---
-
-**Observação:** Este README é um exemplo genérico. Personalize-o conforme necessário para refletir as características específicas do seu projeto.
-```
